@@ -9,8 +9,7 @@ I enjoy building projects, debugging, and learning new things every day.
 ---
 
 ## 🔭 I'm Currently Learning
-- Flutter app development  
-- C/C++ algorithm and prediction-based projects  
+- Flutter app development   
 - Improving my backend and database skills
 
 ---
@@ -23,20 +22,6 @@ I enjoy building projects, debugging, and learning new things every day.
 - **Databases:** MongoDB, Oracle, PostgreSQL  
 - **Hardware/IoT:** Arduino  
 - **Operating System:** Linux
-
----
-
-## 📂 Highlighted Projects
-- **Weather Forecasting (C):** Regression-based temperature forecasting  
-- **House Price Prediction:** Predicting residential prices using dataset analysis
-
----
-
-## 📈 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
-![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ---
 
