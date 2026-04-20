@@ -16,7 +16,7 @@ I enjoy building projects, debugging, and learning new things every day.
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS  
-- **Languages:** Python, C, C++, Java, JavaScript  
+- **Languages:** Python, C, C++, Java, JavaScript, PHP 
 - **Mobile:** Flutter  
 - **Backend:** Node.js  
 - **Databases:** MongoDB, Oracle, PostgreSQL  
